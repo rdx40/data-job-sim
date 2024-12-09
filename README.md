@@ -24,7 +24,7 @@ In the first task, it was required to draft a professional email to the Associat
 
 - Requested the necessary data from PowerCo, including customer information, pricing data, feedback and competitor data.
 
-[View Task 1 mail](https://github.com/.pdf)
+[View Task 1 mail](https://github.com/rdx40/data-job-sim/blob/main/tasks/task-1/test1.pdf)
 
 
 # Task 2: Exploratory Data Analysis (EDA)
@@ -43,7 +43,7 @@ The second task focused on performing an in-depth Exploratory Data Analysis (EDA
 
 - Visualized the distribution of various factors such as sales channels, number of products, and customer tenure to identify trends affecting churn.
 
-[View Task 2 code](.ipynb)
+[View Task 2 code](https://github.com/rdx40/data-job-sim/blob/main/tasks/task-2/Task%202.ipynb)
   
 **Visualizations**
 
@@ -72,7 +72,7 @@ In the third task, it was required to engineer new features to improve the predi
 
 The feature-engineered dataset consisted of 52 columns with transformed variables ready for model training.
 
-[View Task 3 code](https://github.com/ynb)
+[View Task 3 code](https://github.com/rdx40/data-job-sim/blob/main/tasks/task-3/Task%203.ipynb)
 
 
 # Task 4: Modeling, Evaluation and Executive Summary
@@ -99,7 +99,7 @@ The final task involved building a predictive model to forecast customer churn a
   
 - Implementing a 20% discount strategy could be effective for high-value customers with a high likelihood of churn.
 
-[View Exceutive Summary](https://github.com.pdf)
+[View Exceutive Summary](https://github.com/rdx40/data-job-sim/blob/main/tasks/task-4/Executive%20Summary.pdf)
 
 # Conclusion
 

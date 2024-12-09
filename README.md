@@ -89,7 +89,7 @@ The final task involved building a predictive model to forecast customer churn a
 
   - Created a confusion matrix and feature importance plots to assess the model’s performance.
  
-[View Task 4 code](https://github.com/.ipynb) 
+[View Task 4 code](https://github.com/rdx40/data-job-sim/blob/main/tasks/task-4/Task%204.ipynb) 
 
 **Executive Summary**
 
